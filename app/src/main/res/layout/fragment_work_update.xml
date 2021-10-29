@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.myapp.dailywork.fragment.WorkUpdateFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    android:background="@color/background"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_marginRight="12dp"
+            android:layout_marginLeft="12dp"
+            android:textSize="21sp"
+            android:layout_marginTop="10dp"
+            android:text="@string/textforwork"
+
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="@string/update_your_work"
+            android:id="@+id/update_work"
+            android:gravity="center"
+            android:layout_margin="15dp"
+            android:background="@drawable/button_back"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>

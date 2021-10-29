@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.myapp.dailywork">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AwiskarTechnology">
+        <activity
+            android:name="com.myapp.dailywork.HoastingPlan"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.SuccessActivity"
+            android:exported="true"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="com.myapp.dailywork.PriceList"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.DomainRegistration"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.CheckWebsite"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.RequestActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.WorkUpdateActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.SubmitLeadActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.myapp.dailywork.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.myapp.dailywork.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

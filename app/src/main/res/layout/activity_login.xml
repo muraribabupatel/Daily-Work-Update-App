@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.myapp.dailywork.LoginActivity">
+
+    <ImageView
+        android:layout_width="341dp"
+        android:layout_height="108dp"
+        android:background="@drawable/logimg"
+        tools:ignore="MissingConstraints"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="209dp" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="250dp"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+
+        android:layout_height="57dp"
+        />
+
+</LinearLayout>

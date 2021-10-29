@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Daily Work</string>
+    <string name="title_activity_nevigation">NevigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="awiskar">Awiskar Tech is an innovative web design and web development company in Chennai that provides cost effective and quality solutions catering to needs of all business sectors starting from small and medium sized business to Corporate Enterprises. We help our customers to explore their business through customized web solutions.</string>
+    <string name="tech">Before you submit a lead, make sure your lead was either in search or services we offer or have some potential for conversion.</string>
+    <string name="instructions">Instructions:-</string>
+    <string name="one">1. Mention Your name only if lead belongs to you</string>
+    <string name="two">2. Mention the source of lead like google maps,Facebook,Instagram,Telegrams and update with respective links.</string>
+    <string name="update_your_work">UPDATE YOUR WORK</string>
+    <string name="textforwork">Being a fast growing startup company, we don\'t have time for individual interaction with employee or interns on daily basis. As, we have mentioned again and again, we offer salary/stipend based on performance so everyone need to submit their daily work updates by the end of the day. Failing on daily updates submission will be considered as Zero Task complete for that particular date.</string>
+    <string name="request_for_quote">REQUEST FOR QUOTE</string>
+    <string name="single_domain">Single Domain</string>
+    <string name="domain_hosting">Domain+Hosting</string>
+    <string name="static_website">Static Website</string>
+    <string name="form">Form</string>
+    <string name="employee_intern_name">Employee/Intern Name</string>
+    <string name="lead_name">Lead Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="email_id">Email Id</string>
+    <string name="budget">Budget</string>
+
+
+    <string name="activity_name">Activity Name</string>
+    <string name="day_output">Day Output</string>
+    <string name="link">Link</string>
+    <string name="comment">Comment</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="services_required">Services Required</string>
+    <string name="lead_form">Lead Form</string>
+    <string name="domain_registration">DOMAIN REGISTRATION</string>
+    <string name="price_list">PRICE LIST</string>
+    <string name="our_hosting_plans">OUR HOSTING PLANS</string>
+    <string name="check_out_website">CHECK OUT WEBSITE</string>
+    <string name="lead">Lead</string>
+    <string name="work_update">Work Update</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="request">Request</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_drawer_navigation">DrawerNavigation</string>
+    <string name="successfully_submit_your_data">SuccessFully Submit Your Data</string>
+
+
+</resources>

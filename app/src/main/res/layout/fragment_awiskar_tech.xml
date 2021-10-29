@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.myapp.dailywork.fragment.AwiskarTechFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_margin="14dp"
+        android:justificationMode="inter_word"
+        android:textStyle="bold"
+        android:textSize="21sp"
+        android:text="@string/awiskar"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:id="@+id/check_website"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_back"
+        android:text="@string/check_out_website"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/plans"
+        android:background="@drawable/button_back"
+        android:text="@string/our_hosting_plans"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/domain"
+        android:background="@drawable/button_back"
+        android:text="@string/domain_registration"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+       android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/priceList"
+        android:background="@drawable/button_back"
+        android:text="@string/price_list"/>
+
+
+
+</LinearLayout>
+
+</FrameLayout>

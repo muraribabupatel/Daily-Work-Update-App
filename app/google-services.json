@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446265626475",
+    "project_id": "daily-work-dc174",
+    "storage_bucket": "daily-work-dc174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446265626475:android:8edf252ebdbbd92242c62e",
+        "android_client_info": {
+          "package_name": "com.myapp.dailywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446265626475-6vo10atfj54e2ittgnl3eoqob74jaclb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.dailywork",
+            "certificate_hash": "728c943c8bae58e6f5011c6588a98549bcab06b8"
+          }
+        },
+        {
+          "client_id": "446265626475-6r5n6rokot68ftl1p86144m3i44f8mi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVnOPIHFbrmBH4kjXgDGO0Z3QAMLNFwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446265626475-6r5n6rokot68ftl1p86144m3i44f8mi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

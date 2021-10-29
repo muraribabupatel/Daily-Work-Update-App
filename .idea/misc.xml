@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/AwiskarTechnology/AwiskarTechnology/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/AwiskarTechnology/AwiskarTechnology/app/src/main/res/drawable/ic_logout.xml" value="0.19166666666666668" />
+        <entry key="..\:/AwiskarTechnology/AwiskarTechnology/app/src/main/res/drawable/log_back.xml" value="0.19166666666666668" />
+        <entry key="..\:/AwiskarTechnology/AwiskarTechnology/app/src/main/res/layout/activity_check_website.xml" value="0.17552083333333332" />
+        <entry key="..\:/AwiskarTechnology/AwiskarTechnology/app/src/main/res/layout/activity_submit_lead.xml" value="0.17552083333333332" />
+        <entry key="..\:/AwiskarTechnology/AwiskarTechnology/app/src/main/res/layout/fragment_pofile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/drawable/button_back.xml" value="0.2203125" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/drawable/gray_back.xml" value="0.2203125" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/drawable/ic_logout.xml" value="0.20974358974358975" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/drawable/log_back.xml" value="0.20974358974358975" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/drawable/submit_btn.xml" value="0.2203125" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_check_website.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_domain_registration.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_hoasting_plan.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_nevigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_price_list.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_request.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_submit_lead.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_success.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/activity_work_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/app_bar_nevigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/content_nevigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_awiskar_tech.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_lead.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_pofile.xml" value="0.22" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_price_list.xml" value="0.1" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_request.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/fragment_work_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/nav_header.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/nav_header_nevigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/layout/price_list.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/drawer_navigation.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/main_activity2.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/menu_icon.xml" value="0.196875" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/nav_menu.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/menu/nevigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MURARI BABU/AwiskarTechnology/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20462962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
